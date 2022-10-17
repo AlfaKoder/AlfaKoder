@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a fullstack software engineer from Montenegro, currently living in Germany
+I am a data engineer from Montenegro, currently living in Germany
 
 <br>
 ## Connect with me
